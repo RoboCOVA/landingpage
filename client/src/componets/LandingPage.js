@@ -60,7 +60,7 @@ class LandingPage extends Component {
                         <h3 class="dark-color wow fadeInUp" data-wow-delay="0.4s">Interraction within groups</h3>
                         <div class="space-20"></div>
                         <div class="desc wow fadeInUp" data-wow-delay="0.6s">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiing elit, sed do eiusmod tempor incididunt ut labore et laborused sed do eiusmod tempor incididunt ut labore et laborused.</p>
+                            <p>Ethiopian Fresh Coffee aroma time with Friends and Family, sed do eiusmod tempor incididunt ut labore et laborused sed do eiusmod tempor incididunt ut labore et laborused.</p>
                         </div>
                         <div class="space-50"></div>
                         <a href="#" class="bttn-default wow fadeInUp" data-wow-delay="0.8s">Learn More</a>
@@ -152,7 +152,7 @@ class LandingPage extends Component {
                     </div>
                     <div class="space-20"></div>
                     <div class="desc wow fadeInUp" data-wow-delay="0.6s">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiing elit, sed do eiusmod tempor incididunt ut labore et laborused sed do eiusmod tempor incididunt ut labore et laborused.</p>
+                        <p>Ethiopian Fresh Coffee aroma time with Friends and Familylaborused sed do eiusmod tempor incididunt ut labore et laborused.</p>
                     </div>
                     <div class="space-50"></div>
                     <a href="#" class="bttn-default wow fadeInUp" data-wow-delay="0.8s">Learn More</a>
@@ -164,7 +164,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-clock"></i>
                         </div>
                         <h4>Easy Notifications</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                        <p>Ethiopian Fresh Coffee aroma time with Friends and Family, sed do eiusmod tempor.</p>
                     </div>
                     <div class="space-50"></div>
                     <div class="service-box wow fadeInUp" data-wow-delay="0.2s">
@@ -172,7 +172,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-laptop-phone"></i>
                         </div>
                         <h4>Chat support</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                        <p>Ethiopian Fresh Coffee aroma time with Friends and Family, sed do eiusmod tempor.</p>
                     </div>
                     <div class="space-50"></div>
                     <div class="service-box wow fadeInUp" data-wow-delay="0.2s">
@@ -180,7 +180,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-cog"></i>
                         </div>
                         <h4>Full fledged setting</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                        <p>Ethiopian Fresh Coffee aroma time with Friends and Family, sed do eiusmod tempor.</p>
                     </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@ class LandingPage extends Component {
                 <div class="col-xs-12 col-md-6 section-padding">
                     <h3 class="white-color">Download The App</h3>
                     <div class="space-20"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam possimus eaque magnam eum praesentium unde.</p>
+                    <p>Ethiopian Fresh Coffee aroma time with Friends and Family. Quibusdam possimus eaque magnam eum praesentium unde.</p>
                     <div class="space-60"></div>
                     <a href="#" class="bttn-white sq"><img src="/assetes/images/play-store-icon.png" alt="Play Store Icon" /> Play Store</a>
                 </div>
