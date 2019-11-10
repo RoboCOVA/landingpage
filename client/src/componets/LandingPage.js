@@ -94,7 +94,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-apartment"></i>
                         </div>
                         <h4>Job Opportunities</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>Find your Dream job.</p>
                     </div>
                     <div class="space-60"></div>
                     <div class="service-box wow fadeInUp" data-wow-delay="0.2s">
@@ -102,7 +102,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-coffee-cup"></i>
                         </div>
                         <h4>Shay-Buna</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>Ethiopian Fresh Coffee aroma time with Friends and Family.</p>
                     </div>
                     <div class="space-60"></div>
                     <div class="service-box wow fadeInUp" data-wow-delay="0.6s">
@@ -110,7 +110,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-chart-bars"></i>
                         </div>
                         <h4>Startups</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>We are in Digital Age, Let Us Build it together.</p>
                     </div>
                     <div class="space-60"></div>
                 </div>
@@ -125,7 +125,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-earth"></i>
                         </div>
                         <h4>Diaspora</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>We are living the Comfort Zone, How about helping Our Families.</p>
                     </div>
                     <div class="space-60"></div>
                     <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
@@ -133,7 +133,7 @@ class LandingPage extends Component {
                             <i class="lnr lnr-bicycle"></i>
                         </div>
                         <h4>Sports</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <p>Follow your Dream team, Create them or Follow them.</p>
                     </div>
                     <div class="space-60"></div>
                     <div class="space-60"></div>
