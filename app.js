@@ -28,6 +28,6 @@ app.use(
 app.use("/user", require("./routes/UserRoutes"));
 
 // Start the server
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8000;
 app.listen(port);
 console.log("Server listening at " + port);
